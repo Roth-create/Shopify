@@ -1,0 +1,68 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "HERBST SALE | 2+1 AKTION",
+            "link": "shopify:\/\/products\/bodi-bodysuit-sculpting-shapewear"
+          }
+        },
+        "bb865df9-8327-4df5-960b-ddfbd6a76bd1": {
+          "type": "announcement",
+          "settings": {
+            "text": "MYB TRAGEN | MIT KLARNA SPÄTER ZAHLEN",
+            "link": ""
+          }
+        },
+        "c88b614a-2033-40e3-84f8-3174bff0f469": {
+          "type": "announcement",
+          "settings": {
+            "text": "KOSTENLOSER VERSAND",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "bb865df9-8327-4df5-960b-ddfbd6a76bd1",
+        "c88b614a-2033-40e3-84f8-3174bff0f469"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "always",
+        "show_line_separator": true,
+        "color_scheme": "scheme-a6984e0a-70e4-4f89-b954-3d375becf2bd",
+        "menu_color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 20,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

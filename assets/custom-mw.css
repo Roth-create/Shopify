@@ -1,0 +1,134 @@
+/* Custom PopUP  */
+.custom_popup {
+    display: none;
+    /* display: flex; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: all .2s ease-in-out;
+}
+
+.custom_popup-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.custom_close-popup-button {
+    padding: 0;
+    background  : none;
+    border: none;
+    cursor: pointer;
+}
+
+.custom_close-popup-button img{
+    height: 30px;
+    aspect-ratio: 1/1;
+}
+
+/* Product Offer Tag  */
+.custom_product_offer{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px dashed #D3D8D6;
+    background-color: #F2F2F2;
+    cursor: pointer;
+}
+.custom_product_offer img{
+    width: 25px;
+    height: 25px;
+}
+.custom_product_offer img:nth-of-type(2){
+    transform: scale(0.7);
+}
+
+.custom_product_offer p {
+    margin: 0;
+    color: #000;
+    margin-left: 10px;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: 'Montserrat';
+}
+
+/* Product Page  */
+.price__badge-sale{
+    font-weight: 600;
+    padding-top: 0.6rem ;
+    border-radius: 0;
+    border: none;
+}
+
+/* Avatar Reviews  */
+.custom_avatar_imgs{
+    position: relative;
+    width: 100%;
+    max-width: 50px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+}
+
+.custom_avatar_imgs img {
+    height: 30px;
+    aspect-ratio: 1/1;
+    background-position: top;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50px;
+}
+.custom_avatar_imgs img:nth-of-type(2){
+    position: absolute;
+    left: 20px;
+}
+.custom_avatar_content, .custom_reviews{
+    display: flex;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.custom_avatar_name {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    color: #4a4754;
+    margin: 0;
+    text-align: center;
+}
+.custom_avatar_content img{
+    width: 12px;
+    aspect-ratio: 1/1;
+}
+.custom_avatar_reviews {    
+    font-weight: 400;
+    color: #000;
+    margin: 0;
+}
+
+/* Icon With Text  */
+.icon-with-text{
+    display: flex;
+    gap: 10px;
+}
+.icon-with-text__item {
+    flex: 1 1 50%;
+    background: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+}
+.icon-with-text__item span{
+    font-size: 12px;
+}

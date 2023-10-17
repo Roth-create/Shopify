@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "75ab2417-a8ae-48d6-8a92-cc056d3eaf86": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19354197557581__75ab2417-a8ae-48d6-8a92-cc056d3eaf86-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "WIR ERWECKEN DEIN VOLLES POTENTIAL !",
+            "heading_size": "h0"
+          }
+        },
+        "template--19354197557581__75ab2417-a8ae-48d6-8a92-cc056d3eaf86-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--19354197557581__75ab2417-a8ae-48d6-8a92-cc056d3eaf86-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19354197557581__75ab2417-a8ae-48d6-8a92-cc056d3eaf86-heading-1",
+        "template--19354197557581__75ab2417-a8ae-48d6-8a92-cc056d3eaf86-text-1",
+        "template--19354197557581__75ab2417-a8ae-48d6-8a92-cc056d3eaf86-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/team.png",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-6c571315-61ff-4c4f-8ebe-4e944e4a93ba",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "aadc771a-1cbf-429f-8040-66cb1f29b03d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19354197557581__aadc771a-1cbf-429f-8040-66cb1f29b03d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SELBSTBEWUSST",
+            "heading_size": "h2"
+          }
+        },
+        "template--19354197557581__aadc771a-1cbf-429f-8040-66cb1f29b03d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei MYBODI ermutigen wir Frauen, das zu entdecken, was sie lebendig fühlen lässt. Wir möchten, dass sie ihren Körper feiern und stolz auf sich sind. Indem wir Selbstvertrauen fördern, möchten wir Frauen dazu inspirieren, sich selbst zu lieben und ihr volles Potenzial auszuschöpfen.<\/p><p>Denn wir glauben daran, dass selbstbewusste Frauen die Welt positiv beeinflussen. Sie tragen dazu bei, die Gesellschaft zu gestalten und sie zu einem besseren Ort für alle zu machen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19354197557581__aadc771a-1cbf-429f-8040-66cb1f29b03d-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19354197557581__aadc771a-1cbf-429f-8040-66cb1f29b03d-heading-1",
+        "template--19354197557581__aadc771a-1cbf-429f-8040-66cb1f29b03d-text-1",
+        "template--19354197557581__aadc771a-1cbf-429f-8040-66cb1f29b03d-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ueber_uns-1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fc71a107-5780-4eea-b0cb-13f9a7ca926a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19354197557581__fc71a107-5780-4eea-b0cb-13f9a7ca926a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "EINE BEWEGUNG",
+            "heading_size": "h2"
+          }
+        },
+        "template--19354197557581__fc71a107-5780-4eea-b0cb-13f9a7ca926a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zusammen können wir eine starke Gemeinschaft bilden und uns gegenseitig unterstützen, um unsere Träume zu verwirklichen und unsere Ziele zu erreichen. MYBODI ist mehr als nur eine Marke – es ist eine Bewegung, die Selbstliebe und Selbstvertrauen fördert. Lasst uns gemeinsam die Welt verändern!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19354197557581__fc71a107-5780-4eea-b0cb-13f9a7ca926a-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19354197557581__fc71a107-5780-4eea-b0cb-13f9a7ca926a-heading-1",
+        "template--19354197557581__fc71a107-5780-4eea-b0cb-13f9a7ca926a-text-1",
+        "template--19354197557581__fc71a107-5780-4eea-b0cb-13f9a7ca926a-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ueber_uns-2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "75ab2417-a8ae-48d6-8a92-cc056d3eaf86",
+    "aadc771a-1cbf-429f-8040-66cb1f29b03d",
+    "fc71a107-5780-4eea-b0cb-13f9a7ca926a"
+  ]
+}

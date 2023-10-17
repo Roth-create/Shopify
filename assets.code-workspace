@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../Shopify /assets"
+		},
+		{
+			"path": "../Shopify /config"
+		},
+		{
+			"path": "../Shopify /layout"
+		},
+		{
+			"path": "../Shopify /locales"
+		},
+		{
+			"path": "../Shopify /sections"
+		},
+		{
+			"path": "../Shopify /snippets"
+		},
+		{
+			"path": "../Shopify /templates"
+		}
+	]
+}
